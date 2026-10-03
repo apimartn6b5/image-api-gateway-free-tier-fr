@@ -1,4 +1,4 @@
-// Chat-style streaming sanity check through the same key (image-api-gateway-free-tier-ja)
+// Chat-style streaming sanity check through the same key (image-api-gateway-free-tier-fr)
 const r = await fetch("https://api.apimart.ai/v1/chat/completions", {
   method: "POST",
   headers: { "Authorization": `Bearer ${process.env.APIMART_KEY}`,
