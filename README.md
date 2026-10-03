@@ -40,6 +40,3 @@ Async: submit → get `task_id` → poll `GET https://api.apimart.ai/v1/tasks/<t
 
 This repository documents **APIMart**, a third-party API aggregator/gateway. It is **not affiliated with, endorsed by, or sponsored by** OpenAI, Google, Anthropic, xAI, ByteDance or any model vendor. Model names and trademarks belong to their owners. Prices are a point-in-time snapshot and may change; the vendor's console billing is authoritative.
 
-
-
-<!-- MARKER-12359-FRTEST -->
