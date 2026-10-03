@@ -1,5 +1,5 @@
 {
-  "repo": "image-api-gateway-free-tier-fr",
+  "repo": "image-api-gateway-free-tier-ja",
   "model": null,
   "route": "gateway",
   "variant": "image-api-gateway-free-tier",
@@ -10,5 +10,5 @@
     "Seedance 2.0 Mini (480P/sec)": 0.01056,
     "Qwen3.7 Flash (per M input)": 0.0228568
   },
-  "source": "https://go.apimart.ai/k-197aab"
+  "source": "https://go.apimart.ai/k-56d6be"
 }

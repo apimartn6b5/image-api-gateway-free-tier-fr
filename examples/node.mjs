@@ -1,4 +1,4 @@
-// Node 18+ | image-api-gateway-free-tier-fr
+// Node 18+ | image-api-gateway-free-tier-ja
 const BASE = "https://api.apimart.ai/v1";
 const H = { "Authorization": `Bearer ${process.env.APIMART_KEY}`,
              "Content-Type": "application/json" };

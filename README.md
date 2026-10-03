@@ -1,10 +1,10 @@
-# image-api-gateway-free-tier-fr — passerelle API (Français)
+# image-api-gateway-free-tier-ja — AI API ゲートウェイ (日本語)
 
 > **One OpenAI-compatible key, 300+ models** · image2.5 **$0.0085/image** · Seedance 2.0 Mini **$0.01056/sec** · LLM from **$0.0228 / M tokens** · $1 minimum top-up.
 
-**[Voir les tarifs](https://go.apimart.ai/k-197aab)** · **[Obtenir une clé API](https://go.apimart.ai/k-d945d5)**
+**[料金を見る](https://go.apimart.ai/k-4bfa75)** · **[APIキーを取得](https://go.apimart.ai/k-9fdce6)**
 
-image-api-gateway-free-tier-fr place un seul `base_url` et une seule clé devant 300+ modèles — règlement en USD, paiement à l'usage, recharge minimale de 1 $.
+image-api-gateway-free-tier-ja は 1 つの `base_url` と 1 つのキーで 300+ モデルに接続します。USD 決済・従量課金・最低 $1 チャージ。
 
 ## Published unit prices (snapshot 2026-09-28)
 
@@ -27,7 +27,7 @@ Async: submit → get `task_id` → poll `GET https://api.apimart.ai/v1/tasks/<t
 
 ## Keywords
 
-`rétro-ingénierie` · `reverse-engineered` · `passerelle API` · `relais API` · `nano banana 2 api` · `gpt-image-2.5 api` · `ai api pricing` · `pay-as-you-go`
+`リバース` · `逆解析` · `AI API ゲートウェイ` · `API 中継` · `nano banana 2 api` · `gpt-image-2.5 api` · `ai api pricing` · `pay-as-you-go`
 
 ## Platform facts
 
